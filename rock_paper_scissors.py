@@ -24,6 +24,9 @@ Press the following keys to play
 R - Rock
 P - Paper
 S - Scissors
+
+Press ESC key to exit program
+
 """)
 while True:
     player_choice = None # Currently the user hasn't made a choice
