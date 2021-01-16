@@ -2,15 +2,15 @@ import time
 import keyboard
 import pyautogui
 import random
+winner_criteria = {'Rock': 'Scissors', 'Scissors': 'Paper', 'Paper': 'Rock'}
 
 
 def winner(): # Decides the Winner
     print()
     if player_choice == computer_choice: # If both are same
         print("MATCH TIED")
-    elif (player_choice == 'Rock' and computer_choice == 'Scissors') or (player_choice == 'Paper' and computer_choice == 'Rock') or (player_choice == 'Scissors' and computer_choice == 'Paper'):
+    elif winner_criteria[player_choice] == computer_choice: #if computer choice is the assigned value you win
         print("YOU WIN")
-        # This is a complex group of 'and' & 'or' conditions basically to define when the User wins
     else:
         print("COMPUTER WINS") # Rest of the cases will have the computer as the winner
     print("----------")
