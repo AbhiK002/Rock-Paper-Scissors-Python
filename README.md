@@ -1,0 +1,13 @@
+# User manual
+
+Nothing much complicated about this game
+1. Open The Program
+2. Press "R" key to select "Rock", "S" for "Scissors" and "P" for "Paper"
+3. Press "Esc" key to exit the program
+4. Program will only respond to these 4 keys nothing else 
+
+So you can do whatever you want in your PC even while the program is running in the background. The program will not affect anything you type anywhere else.
+(Except for ESC key of course, it will simply end the program.)
+ Totally Safe and a cute little Python Game.
+
+Thank You and Enjoy
