@@ -39,9 +39,9 @@ Totally Safe and a cute little Python Game.
 Thank You and Enjoy!!
 
 # Images
-https://github.com/AbhiK002/Rock-Paper-Scissors-Python/blob/Game/Images/1.png
-https://github.com/AbhiK002/Rock-Paper-Scissors-Python/blob/Game/Images/2.png
-https://github.com/AbhiK002/Rock-Paper-Scissors-Python/blob/Game/Images/3.png
-https://github.com/AbhiK002/Rock-Paper-Scissors-Python/blob/Game/Images/4.png
-https://github.com/AbhiK002/Rock-Paper-Scissors-Python/blob/Game/Images/5.png
-https://github.com/AbhiK002/Rock-Paper-Scissors-Python/blob/Game/Images/6.png
+![1](https://github.com/AbhiK002/Rock-Paper-Scissors-Python/blob/Game/Images/1.png)
+![2](https://github.com/AbhiK002/Rock-Paper-Scissors-Python/blob/Game/Images/2.png)
+![3](https://github.com/AbhiK002/Rock-Paper-Scissors-Python/blob/Game/Images/3.png)
+![4](https://github.com/AbhiK002/Rock-Paper-Scissors-Python/blob/Game/Images/4.png)
+![5](https://github.com/AbhiK002/Rock-Paper-Scissors-Python/blob/Game/Images/5.png)
+![6](https://github.com/AbhiK002/Rock-Paper-Scissors-Python/blob/Game/Images/6.png)
