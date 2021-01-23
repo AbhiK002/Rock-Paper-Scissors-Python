@@ -19,13 +19,13 @@ Nothing much complicated about this game:
 1. Open The Program
 2. Type in your desired username
 3. Choose a difficulty by pressing these keys:
-B (for baby)
-N (for normal)
-I (for Impossible)
+- B (for baby)
+- N (for normal)
+- I (for Impossible)
 4. Play the game by pressing these keys:
-R (for selecting Rock)
-P (for selecting Paper)
-S (for selecting Scissors)
+- R (for selecting Rock)
+- P (for selecting Paper)
+- S (for selecting Scissors)
 5. Press SPACEBAR to change difficulty (start a new series)
 6. Once you press SPACEBAR, before clearing the screen to ask for the new difficulty, it will print the details of the current series you were playing.
    You can press SPACEBAR again to move on after viewing the results!
