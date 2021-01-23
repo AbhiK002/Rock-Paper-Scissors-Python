@@ -2,13 +2,13 @@
 UPDATED TO v2.0!
 
 # What's new?
-> Added Usernames - Play with a custom name!
-> Added 3 Fun Difficulties:
+- Added Usernames - Play with a custom name!
+- Added 3 Fun Difficulties:
     Baby - User Always Wins
     Normal - Unbiased (Equally Likely Win, Loss or Draw)
     Impossible - Computer Always Wins
-> Added New System of Matches and Series
-> Everytime the difficulty is changed, the Summary of that particular series is shown to you which contains:
+- Added New System of Matches and Series
+- Everytime the difficulty is changed, the Summary of that particular series is shown to you which contains:
     Difficulty Level of that Series
     Number of Matches played
     Winner of the Series 
