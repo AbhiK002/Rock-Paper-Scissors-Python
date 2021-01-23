@@ -15,7 +15,7 @@ UPDATED TO v2.0!
     
 
 # How to play 
-Nothing much complicated about this game
+Nothing much complicated about this game:
 1. Open The Program
 2. Type in your desired username
 3. Choose a difficulty by pressing these keys:
