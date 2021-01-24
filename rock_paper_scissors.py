@@ -69,7 +69,7 @@ def difficulty():
     return game_difficulty
 
 
-def game():
+def game(game_difficulty):
     # function which contains the main game
     # including series, difficulty and matches details
     print(game_difficulty.upper().center(33, "-"))
@@ -151,7 +151,7 @@ def game():
     return player_wins, computer_wins, match_count
 
 
-def series_winner():
+def series_winner(player_wins, computer_wins, match_count, game_difficulty, series_count):
     # Before starting next series, this function prints the winner and other details about the current series
     # Basically a summary (number of matches, overall winner, etc) of the current series are printed
     diff_output = f"Difficulty: {game_difficulty.title()}"  
@@ -194,23 +194,18 @@ def main_loop():
     # Main loop that runs the whole game
     global username
     username = ask_username()
-    global series_count
     series_count = 0
     while True:
         # Everytime this loop repeats (series ended)
         # Series number increases by 1
         series_count += 1
         rules()
-        global game_difficulty
         game_difficulty = difficulty()
         clear()
         rules()
         print('\n' + f"SERIES - {series_count}".center(33) + '\n')
-        global player_wins
-        global computer_wins
-        global match_count
-        player_wins, computer_wins, match_count = game()
-        series_winner()
+        player_wins, computer_wins, match_count = game(game_difficulty)
+        series_winner(player_wins, computer_wins, match_count, game_difficulty, series_count)
         next_game_trigger()
         clear()
 
