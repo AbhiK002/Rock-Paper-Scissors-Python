@@ -200,7 +200,6 @@ if __name__ == '__main__':
         series_count += 1
         rules()
         game_difficulty = difficulty()
-        print(game_difficulty)
         clear()
         rules()
         print('\n' + f"SERIES - {series_count}".center(33) + '\n')
