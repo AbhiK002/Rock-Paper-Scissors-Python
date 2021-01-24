@@ -10,9 +10,7 @@ def ask_username():
     while True:
         username = input("Enter Your Username: ")
         if username.isalnum():
-            print()
             print('\n' + f"Welcome to Rock Paper Scissors, {username}" + '\n')
-            print()
             break
         elif username == "":  
             print("Please enter a username" + '\n')
@@ -193,7 +191,7 @@ def next_game_trigger():
 
 
 if __name__ == '__main__':
-    # Main part that runs the whole game
+    # Main loop that runs the whole game
     username = ask_username()
     series_count = 0
     while True:
