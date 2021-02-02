@@ -9,7 +9,9 @@ def ask_username():
     # it should contain only alphabets and numbers
     while True:
         username = input("Enter Your Username: ")
-        if username.isalnum():
+        if len(username) < 3 or len(username) > 20:
+            print("Username should be 3 to 20 characters long\n")
+        elif username.isalnum():
             print('\n' + f"Welcome to Rock Paper Scissors, {username}" + '\n')
             break
         elif username == "":  
