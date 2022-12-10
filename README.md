@@ -1,6 +1,7 @@
 ![rpssmol](https://user-images.githubusercontent.com/68178267/206696769-9e6c103b-227a-49e9-8146-490a386a536e.png)
 
 # User manual
+[Download Here](https://github.com/AbhiK002/Rock-Paper-Scissors-Python/releases/latest)
 
 ## Features
 - Usernames - Play with a custom name!
